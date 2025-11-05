@@ -1,0 +1,16 @@
+✅ 해결 방법 1 — 안전한 방식 (pull 후 push)
+git pull origin main --rebase
+git push origin main
+
+
+✅ 1. 원격 저장소와 로컬 저장소의 차이 확인
+git fetch
+git status
+
+현재 로컬 Git 저장소에 연결된 모든 원격 저장소(remote) 확인 명령어:
+
+git remote -v
+
+
+구만 좀 올려주세요 
+

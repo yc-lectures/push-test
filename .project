@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>push-test</name>
+=======
+<<<<<<< HEAD
+	<name>push-test</name>
+=======
+	<name>My-git-test</name>
+>>>>>>> branch 'main' of https://github.com/yc-lectures/push-test
+>>>>>>> branch 'main' of https://github.com/hongin-js/push-test.git
 	<comment></comment>
 	<projects>
 	</projects>
